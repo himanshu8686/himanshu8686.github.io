@@ -709,6 +709,10 @@ footer.auth{
     color: white;
     font-family: 'Raleway';
 }
+.name-tag{
+    color: #eb3b5a;
+    font-weight: bolder;
+}
 
 /******************************
             WOW CSS
